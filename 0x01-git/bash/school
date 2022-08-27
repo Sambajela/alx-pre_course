@@ -1,3 +1,8 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "School"
 "The School is open!"
+=======
+echo "The school is open!"
+"School"
+>>>>>>> update_script
